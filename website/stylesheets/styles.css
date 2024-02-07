@@ -3,3 +3,8 @@ h1 {
     text-align: center;
     
 }
+
+blockquote {
+    color: aquamarine;
+    background-color: burlywood;
+}
